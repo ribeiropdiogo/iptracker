@@ -25,6 +25,6 @@ This GitHub repository contains the source code for a website built using Vue, T
 
 This command will start a development server, and you can access the website by navigating to http://localhost:8080 in your web browser.
 
-## Contributions
+## About
 
 This GitHub repository is a personal project that was created during free time as an exercise to use some different tools and technologies. The project is based on a tutorial done by [John Komarnicki](https://github.com/johnkomarnicki) and was adapted to incorporate additional features and customization.
